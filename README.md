@@ -11,7 +11,6 @@
 
 ### 💫 About Me
 💻 Software Engineering student at **IJSE** — focused on building scalable backend, web, mobile, and AI systems.  
-🚗 Currently building **Malshan Vehicle Rental Management System** — a real-world practical software solution.  
 🌱 Exploring modern technologies alongside academic modules (Spring Boot, AI, Full-Stack systems).  
 🎥 Sharing coding knowledge through YouTube as an online programming lecturer.  
 ⚡ I believe: *software is not about posting — it’s about building.*  

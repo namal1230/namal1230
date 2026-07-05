@@ -1,9 +1,9 @@
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+Application+Developer;Mobile+Application+Developer;Devops+And+MLOps+Engineer;System+Designer;Future+Software+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+Application+Developer;System+Builder;Backend+Specialist" alt="typing" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 💻 Software Engineering student at **IJSE** — focused on building scalable backend, web, mobile, and AI systems.  
 🌱 Exploring modern technologies alongside academic modules (Spring Boot, AI, Full-Stack systems).  
 🎥 Sharing coding knowledge through YouTube as an online programming lecturer.  
-⚡ I believe: *software is not about posting — it’s about building.*  
+⚡ I believe: *software is not about posting — it's about building.*  
 
 ---
 
@@ -154,6 +154,7 @@ Open to collaborating on **public repositories only** with developers who are se
 
 ## 🌟 Motto
 > Learn Deeply. Build Consistently. Improve Continuously.
+
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230A0A0F&textColor=%23F0F0FF&qColor=%236C63FF&aColor=%2300D4AA&borderColor=%231E1E2E)
@@ -163,14 +164,8 @@ Open to collaborating on **public repositories only** with developers who are se
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF&langs_count=8" />
-
-</div>
-<div align="center">
-<!-- <img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" /> -->
-<img height="170" src="https://streak-stats.demolab.com?user=atulmint&theme=github-dark-blue&hide_border=true"/>
-<br/>
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=namal1230&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF" />
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api/top-langs/?username=namal1230&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF" />
 
 </div>
 
@@ -181,7 +176,6 @@ Open to collaborating on **public repositories only** with developers who are se
 </p>
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fuad-Haque&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namal1230&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=GitHub%20Activity%20Graph)](https://github.com/namal1230)
 
-</div>
 </div>

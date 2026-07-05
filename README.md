@@ -1,10 +1,9 @@
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#00ADEF;">Namal Dilmith</span></h1>
-<h3 align="center">🚀 Software Engineering Student | Full-Stack Developer | AI & System Builder</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+Application+Developer;Mobile+Application+Developer;Devops+And+MLOps+Engineer;System+Designer;Future+Software+Architect" />
 </p>
 
 ---
@@ -155,9 +154,34 @@ Open to collaborating on **public repositories only** with developers who are se
 
 ## 🌟 Motto
 > Learn Deeply. Build Consistently. Improve Continuously.
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230A0A0F&textColor=%23F0F0FF&qColor=%236C63FF&aColor=%2300D4AA&borderColor=%231E1E2E)
+
+</div>
+
+## 📊 GitHub Analytics
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF&langs_count=8" />
+
+</div>
+<div align="center">
+<!-- <img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" /> -->
+<img height="170" src="https://streak-stats.demolab.com?user=atulmint&theme=github-dark-blue&hide_border=true"/>
+<br/>
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Engineer;AI+Builder;System+Designer;Future+Software+Architect" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fuad-Haque&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+</div>

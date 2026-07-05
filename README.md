@@ -141,6 +141,23 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|-----------|-------|
+| [**Complaint Management System (CMS)**](https://github.com/namal1230/Complaint-Management-System-CMS-) | Research-driven CMS for Municipal IT to submit, track, and resolve complaints | Jakarta EE, JSP | ![Stars](https://img.shields.io/github/stars/namal1230/Complaint-Management-System-CMS-?style=flat-square&color=FFD700) |
+| [**MERN Blog Site**](https://github.com/namal1230/MERN-Blog-Site) | Full-stack blog platform with modern tech stack | MongoDB, Express, React, Node.js | ![Stars](https://img.shields.io/github/stars/namal1230/MERN-Blog-Site?style=flat-square&color=FFD700) |
+| [**Vehicle Rental System (MVC)**](https://github.com/namal1230/MALSHAN-VEHICLE-RENT-SHOP-MANAGEMENT-SYSTEM) | First semester final project using MVC & Singleton design pattern | Java, MVC Architecture | ![Stars](https://img.shields.io/github/stars/namal1230/MALSHAN-VEHICLE-RENT-SHOP-MANAGEMENT-SYSTEM?style=flat-square&color=FFD700) |
+| [**Automated Greenhouse Management System**](https://github.com/namal1230/Automated-Greenhouse-Management-System-AGMS-) | IoT-based system for greenhouse automation | Java, System Design | ![Stars](https://img.shields.io/github/stars/namal1230/Automated-Greenhouse-Management-System-AGMS-?style=flat-square&color=FFD700) |
+| [**Agentic AI**](https://github.com/namal1230/Agentic-AI) | Advanced AI agent implementations | Python, AI/ML | ![Stars](https://img.shields.io/github/stars/namal1230/Agentic-AI?style=flat-square&color=FFD700) |
+| [**Design Patterns**](https://github.com/namal1230/Design-Patterns) | Comprehensive collection of design patterns implementation | Java | ![Stars](https://img.shields.io/github/stars/namal1230/Design-Patterns?style=flat-square&color=FFD700) |
+
+</div>
+
+---
+
 ## 🎥 Content Creator
 I teach programming and software engineering on YouTube as an online lecturer.  
 My focus is simple: **learn by building real projects, not just theory.**
@@ -171,11 +188,31 @@ Open to collaborating on **public repositories only** with developers who are se
 
 ---
 
+## 🔥 Contribution Stats
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=namal1230&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=GitHub%20Activity%20Graph)
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namal1230&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=GitHub%20Activity%20Graph)](https://github.com/namal1230)
+### Connect & Collaborate
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/namal1230)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@namal1230)
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prowaddosinhalatutorial@gmail.com)
 
 </div>
+
+---
+
+<p align="center">
+  <em>Building real software, one project at a time 🚀</em>
+</p>

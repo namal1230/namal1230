@@ -99,8 +99,8 @@ Open to collaborating on **public repositories only** with developers who are se
 
 ### Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/namal-ruwanpathirana-1620603b8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://namal-dilmith-ruwanpathirana.vercel.app/m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/namal-ruwanpathirana-1620603b8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://namal-dilmith-ruwanpathirana.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/namal1230)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prowaddo?si=43JJ0DNVO8Izn94I)
 [![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndilmith2002@gmail.com)

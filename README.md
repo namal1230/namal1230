@@ -14,12 +14,18 @@
 🎥 Sharing coding knowledge through YouTube as an online programming lecturer.  
 ⚡ I believe: *software is not about posting — it's about building.*  
 
+
+&nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="22" alt="Electron"/> <b>Desktop Application Developer</b> 
+&nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" alt="React"/> <b>Full Stack Developer</b> 
+&nbsp;&nbsp;•&nbsp;&nbsp; 🤖 <b>AI Engineer</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" alt="Backend"/> <b>Backend Developer</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+☁️ <b>DevOps Engineer</b>
+&nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="22"/> <b>Mobile Application Developer</b> &nbsp;&nbsp;
 ---
 
-## 🧠 Mastering Areas
-<details>
-<summary>Click to Expand</summary>
 
+
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Backend_Development-0A66C2?style=for-the-badge&logo=server&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack_Development-FF5733?style=for-the-badge&logo=code&logoColor=white" />
@@ -28,118 +34,6 @@
   <img src="https://img.shields.io/badge/AI_Engineering-8E44AD?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 </details>
-
----
-
-## 🧩 Programming Languages
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
-</details>
-
----
-
-## 🎨 Frontend Development
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-</details>
-
----
-
-## ⚙️ Backend Development
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
-</details>
-
----
-
-## 📱 Mobile Development
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-</details>
-
----
-
-## 🖥️ Desktop Development
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java_Desktop-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_Desktop-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-</details>
-
----
-
-## 🗄️ Databases
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-</details>
-
----
-
-## 🤖 AI & Emerging Tech
-<details>
-<summary>Click to Expand</summary>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Engineering-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Systems-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Applications-2E86C1?style=for-the-badge" />
-</div>
-</details>
-
----
-
-## 🚀 What I Build
-• Full-Stack Web Applications  
-• AI-Powered Systems  
-• Mobile Applications  
-• Desktop Applications  
-• Automation Systems  
-• Management Systems  
-
----
 
 ## ⭐ Featured Projects
 

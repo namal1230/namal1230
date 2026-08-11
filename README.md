@@ -1,6 +1,7 @@
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF" alt="header" />
+<img width="200" height="200" alt="200" src="https://github.com/user-attachments/assets/01193151-6699-4aac-9947-2c4edafcbbe9" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+Application+Developer;System+Builder;Backend+Specialist" alt="typing" />

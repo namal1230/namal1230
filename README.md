@@ -1,3 +1,4 @@
+<img width="489" height="408" alt="images (1)" src="https://github.com/user-attachments/assets/ab144ca3-dc66-4f7a-9d74-3d62b3fbc438" />
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF" alt="header" />

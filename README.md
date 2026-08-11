@@ -1,4 +1,7 @@
 <img width="540" height="400" alt="tumblr_3d6ec024f554705bf59f881e6f45a383_534da255_540" src="https://github.com/user-attachments/assets/3911f1df-7336-4528-b1e5-514db10e4a7c" />
+```
+She follows me like a ghost, even though I warned her about the kind of person I am. Don’t love me like a friend, don’t love me like a lover. You crossed the line the moment you chose to follow me. I warned you… but you followed anyway
+```
 <img width="489" height="408" alt="images (1)" src="https://github.com/user-attachments/assets/ab144ca3-dc66-4f7a-9d74-3d62b3fbc438" />
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
 <div align="center">

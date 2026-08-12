@@ -1,8 +1,3 @@
-<img width="540" height="400" alt="tumblr_3d6ec024f554705bf59f881e6f45a383_534da255_540" src="https://github.com/user-attachments/assets/3911f1df-7336-4528-b1e5-514db10e4a7c" />
-```
-She's pretty tough woman, but if someone hugged her and said "i'know you're not okay, but Im proud of you for being this strong for so long" she would probably fall apart into a pieces 💔
-```
-<img width="489" height="408" alt="images (1)" src="https://github.com/user-attachments/assets/ab144ca3-dc66-4f7a-9d74-3d62b3fbc438" />
 <!-- 🌟 Modern & Stylish GitHub Profile README for Namal Dilmith -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=220&section=header&text=👋%20Hey%20there%20,%20I'm%20Namal%20Dilmith&fontSize=52&fontColor=FFFFFF" alt="header" />
